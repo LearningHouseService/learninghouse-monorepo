@@ -35,7 +35,7 @@
   "devDependencies": {
     "@angular-devkit/build-angular": "^14.1.0",
     "@angular/cli": "~14.2.6",
-    "@angular/compiler-cli": "^14.1.0",
+    "@angular/compiler-cli": "^14.2.11",
     "@types/jasmine": "~4.0.0",
     "fs-extra": "6.0.1",
     "git-describe": "4.1.1",
