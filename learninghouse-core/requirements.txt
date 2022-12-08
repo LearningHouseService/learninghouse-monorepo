@@ -6,4 +6,4 @@ pydantic==1.10.2
 loguru==0.6.0
 numpy==1.23.4
 pandas==1.5.1
-scikit-learn==1.1.2
+scikit-learn==1.2.0
